@@ -19,25 +19,6 @@
 This is my personal portfolio website built with **HTML**, **CSS**, and **JavaScript**.  
 It features a **custom animated cursor**, smooth scrolling, project showcases, and a responsive design.
 
----
-
-## 🎥 Demo: Custom Animated Cursor
-
-> Replace the placeholder below with your real GIF file once you have it.
-
-<p align="center">
-  <img src="assets/cursor-demo.gif" alt="Animated Cursor Demo" width="600" />
-</p>
-
----
-
-## 🖼️ Screenshots
-
-| Landing Page | Projects Section |
-|--------------|------------------|
-| ![Landing](assets/image.png) | ![Projects](assets/image.png) |
-
----
 
 ## 🚀 Features
 
